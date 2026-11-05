@@ -12,7 +12,7 @@ My Youtube    : https://www.youtube.com/@AksesInternet2023
 
 Link Tutorial : 
 
-Link Downlaod :
+Link Downlaod : https://github.com/QcomWrt/luci-app-qtun
 
 TELE : @aksesinternet2023
 
