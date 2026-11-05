@@ -1,7 +1,5 @@
 # QTUN-TUNNELING
 
-# INSTALL & REMOTE STB OPENWRT
-
 # Created Boychongzen aka Xroot
 
 #  QTUN CLASH
