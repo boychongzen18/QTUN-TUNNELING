@@ -5,7 +5,8 @@
 # Created Boychongzen aka Xroot
 
 #  QTUN CLASH
-![be](https://raw.githubusercontent.com/boychongzen18/tailscale/refs/heads/main/4.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/QTUN-TUNNELING/refs/heads/main/SS_1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/QTUN-TUNNELING/refs/heads/main/SS_2.jpg)
 
 
 
